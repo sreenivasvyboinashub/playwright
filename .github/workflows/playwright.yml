@@ -53,3 +53,4 @@ jobs:
           Playwright execution completed.
 
           Check attached report artifact in GitHub Actions.
+        attachments: playwright-report/index.html
